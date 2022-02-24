@@ -78,10 +78,9 @@
 
 ## 概率论与数理统计
 
-
 # 通信篇
 ## 卷积  
-　　计算机视觉刚才也有卷积的解释，这一篇偏重于信号方面的解释。   
+　　计算机视觉类别下也有卷积的解释，这一篇偏重于信号方面的解释。   
 [如何通俗易懂地解释卷积？](https://www.zhihu.com/question/22298352/answer/34267457)   
 
 ## 傅里叶变换
@@ -90,3 +89,7 @@
 
 ## 应用
 [什么是盲水印](https://www.zhihu.com/question/50735753/answer/278510105)  
+
+# 编程语言
+## Python
+[python中yield的用法详解——最简单，最清晰的解释](https://blog.csdn.net/mieleizhi0522/article/details/82142856)
